@@ -1,0 +1,5 @@
+25/08/2023
+delete and edit functionality
+ES Lint and prettier configuration
+add form handling
+sorting and searching functionality
