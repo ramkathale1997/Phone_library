@@ -36,16 +36,16 @@ let AddUser = () => {
             console.log(user);
         }
     })
-    const validate = (name) => {
+    const validate = (value) => {
         const errors = {}
         // const regex = /^[^\$@]+@[^\$@]+\.[^\$@]{2,}$/i;
-        if (!name.firstName) {
+        if (!value.firstName) {
             errors.firstName = "First name is required!";
         }
-        if (!name.lastName) {
+        if (!value.lastName) {
             errors.lastName = "Last name is required!";
         }
-        if (!name.phoneNo) {
+        if (!value.phoneNo) {
             errors.phoneNo = "Phone number is required!";
         }
         return errors;
