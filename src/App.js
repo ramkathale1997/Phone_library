@@ -1,12 +1,12 @@
 import './App.css';
-import Nav from './Comman/Nav';
+import Nav from './Common/Nav';
 
 function App() {
   return (
-    <div className="App">
-      <Nav></Nav>
+    <div className='App'>
+     <Nav></Nav>
     </div>
   );
-}
+};
 
 export default App;

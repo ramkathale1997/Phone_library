@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "firstName": "Ram",
+      "lastName": "Kathale",
+      "phoneNo": "9850140543",
+      "id": 1
+    },
+    {
+      "firstName": "Samay",
+      "lastName": "Burad",
+      "phoneNo": "9922334455",
+      "id": 2
+    },
+    {
+      "firstName": "Shubham",
+      "lastName": "Patil",
+      "phoneNo": "9820108329",
+      "id": 3
+    },
+    {
+      "firstName": "Akshay",
+      "lastName": "Ghode",
+      "phoneNo": "8710239465",
+      "id": 4
+    },
+    {
+      "firstName": "Upendra",
+      "lastName": "Singh",
+      "phoneNo": "7722091428",
+      "id": 5
+    },
+    {
+      "firstName": "Viraj",
+      "lastName": "Rathi",
+      "phoneNo": "9820193427",
+      "id": 6
+    },
+    {
+      "firstName": "Vrushabh",
+      "lastName": "Chamatte",
+      "phoneNo": "9910293846",
+      "id": 7
+    },
+    {
+      "firstName": "Chetan",
+      "lastName": "Dhokpande",
+      "phoneNo": "8870914591",
+      "id": 8
+    },
+    {
+      "firstName": "Anuj",
+      "lastName": "Bihade",
+      "phoneNo": "8899779944",
+      "id": 9
+    },
+    {
+      "firstName": "Arpit",
+      "lastName": "Ruikar",
+      "phoneNo": "7733009911",
+      "id": 10
+    }
+  ]
+}
