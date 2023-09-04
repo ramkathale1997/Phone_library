@@ -1,7 +1,7 @@
 import React from 'react';
-import AddUser from "../Components/AddUser";
+import AddUser from '../Components/AddUser';
 import GetUser from '../Components/GetUser';
-import { BrowserRouter, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
 function Nav() {
   return (
@@ -9,7 +9,7 @@ function Nav() {
       <BrowserRouter>
         <Routes >
           <Route path='user'>
-            <Route to={"user"}>User Details</Route>
+            <Route to={'user'}>User Details</Route>
             <Route index Component={GetUser}></Route>
             <Route path='addUser' Component={AddUser}></Route>
             <Route path='getUser' Component={GetUser}></Route>
@@ -17,8 +17,7 @@ function Nav() {
         </Routes>
       </BrowserRouter>
     </div>
-  )
-}
+  );
+};
 
-export default Nav
-
+export default Nav;
